@@ -1,10 +1,6 @@
 # MansiDS
 <div align="center">
-  <img 
-    src="https://www.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_258241230.htm"
-    width="280"
-    alt="Girl Programming at Computer"
-  />
+  <img src="https://raw.githubusercontent.com/MansiDS-tech/MansiDS-tech/main/female-developer.png" width="320"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
