@@ -1,9 +1,9 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://cdn-icons-png.flaticon.com/512/2922/2922561.png"
-    width="220"
-    alt="Female Software Developer"
+    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/coding-girl.gif"
+    width="260"
+    alt="Girl Programmer Coding"
   />
 </div>
 
