@@ -1,9 +1,9 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://cdn-icons-png.flaticon.com/512/706/706807.png"
+    src="https://cdn-icons-png.flaticon.com/512/4325/4325935.png"
     width="220"
-    alt="Girl Programmer Coding on Laptop"
+    alt="Woman Coding Illustration"
   />
 </div>
 
