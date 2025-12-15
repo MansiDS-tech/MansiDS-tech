@@ -1,10 +1,6 @@
 # MansiDS
 <div align="center">
-  <img 
-    src="https://cdn-icons-png.flaticon.com/512/4325/4325935.png" 
-    width="180" 
-    alt="Woman Coding"
-  />
+  <img src="coding.gif" width="320" alt="Programming Animation"/>
 </div>
 
 
