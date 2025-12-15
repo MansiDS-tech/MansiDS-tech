@@ -1,7 +1,7 @@
 # MansiDS
 <div align="center">
   <img 
-    src="girl-programming.png"
+    src="https://www.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_258241230.htm"
     width="280"
     alt="Girl Programming at Computer"
   />
