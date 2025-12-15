@@ -1,9 +1,9 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/coding-girl.gif"
+    src="https://raw.githubusercontent.com/SupianIDz/supianidz/main/assets/coding.gif"
     width="260"
-    alt="Girl Programmer Coding"
+    alt="Girl Coding at Desk"
   />
 </div>
 
