@@ -1,15 +1,51 @@
 # MansiDS-tech
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/MansiDS-tech/MansiDS-tech/main/female-developer.png"
-    width="320"
-    alt="Female Software Developer Programming"
-  />
-</div>
 
+<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="420" height="260" rx="18" fill="#0d1117"/>
+
+  <!-- Laptop -->
+  <rect x="130" y="150" width="160" height="18" rx="4" fill="#8b949e"/>
+  <rect x="145" y="80" width="130" height="80" rx="6" fill="#161b22" stroke="#58a6ff"/>
+
+  <!-- Code lines animation -->
+  <g fill="#58a6ff">
+    <rect x="155" y="95" width="80" height="4">
+      <animate attributeName="width" values="0;80;0" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="155" y="110" width="60" height="4">
+      <animate attributeName="width" values="0;60;0" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="155" y="125" width="90" height="4">
+      <animate attributeName="width" values="0;90;0" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Girl head -->
+  <circle cx="210" cy="55" r="20" fill="#f2c9ac"/>
+
+  <!-- Hair -->
+  <path d="M190 55 q20 -30 40 0 v20 h-40z" fill="#6f42c1"/>
+
+  <!-- Body -->
+  <rect x="195" y="75" width="30" height="45" rx="10" fill="#a371f7"/>
+
+  <!-- Hands typing -->
+  <rect x="170" y="120" width="40" height="8" rx="4" fill="#f2c9ac">
+    <animate attributeName="x" values="170;175;170" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="210" y="120" width="40" height="8" rx="4" fill="#f2c9ac">
+    <animate attributeName="x" values="210;205;210" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
 <h3 align="center">📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mansi-choudhary-b33279357/" target="_blank">
