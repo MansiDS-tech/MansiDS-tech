@@ -46,7 +46,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
 <h3 align="center">📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast</h3>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mansi-choudhary-b33279357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
